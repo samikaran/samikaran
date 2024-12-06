@@ -16,7 +16,7 @@ Full Stack Developer with 10+ years of experience in building scalable web appli
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samikaran&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ## 💻 Tech Stack & Skills
