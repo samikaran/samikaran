@@ -11,7 +11,7 @@ Full Stack Developer with 10+ years of experience in building scalable web appli
 
 ## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true&area=true" width="100%" alt="activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samikaran&theme=react-dark&hide_border=true&area=true" width="100%" alt="activity graph">
 </p>
 
 ## 🔥 Streak Stats
