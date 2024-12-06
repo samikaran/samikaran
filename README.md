@@ -37,8 +37,10 @@ Full Stack Developer with 10+ years of experience in building scalable web appli
 
 ## 📈 GitHub Stats and Languages
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages"/>
+  <a href="https://github.com/samikaran">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samikaran&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikaran&layout=compact&langs_count=7&theme=radical"/>
+  </a>
 </p>
 
 ## 🎯 Skills Progress
