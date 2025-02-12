@@ -7,7 +7,7 @@
 </p>
 
 ## 💫 About Me
-Full Stack Developer with 10+ years of experience in building scalable web applications. Currently based in Toronto, Canada 🇨🇦. Passionate about creating efficient, maintainable code and staying current with the latest tech trends.
+Full Stack Developer with 10+ years of experience in building scalable web applications. Currently based in Vancouver, Canada 🇨🇦. Passionate about creating efficient, maintainable code and staying current with the latest tech trends.
 
 ## 📊 GitHub Activity
 <p align="center">
